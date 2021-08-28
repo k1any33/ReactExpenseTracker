@@ -1,0 +1,18 @@
+.dashboard {
+  background-color: #fff;
+  box-shadow: var(--box-shadow);
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px 0px;
+  border: 1px solid #dedede;
+}
+
+.dashboard > div {
+  flex: 1;
+  text-align: center;
+}
+
+.dashboard > div:not(:last-child) {
+  border-right: 1px solid #dedede;
+}
