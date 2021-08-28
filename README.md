@@ -1,6 +1,6 @@
 # ExpenseTracker
 
-This project is a simple expense tracker application built using useContext hook. It demonstrates basic functionalities such as adding and deleting transactions. 
+This project is a simple expense tracker application built using React and useContext hook. It demonstrates basic functionalities such as adding and deleting transactions. 
 
 It is also has a mini dashboard that allows users to track their total income and expenses. 
 
